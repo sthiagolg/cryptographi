@@ -13,4 +13,6 @@ example: python3 cryptographie.py crypt test.txt thiago
   
 -> it will create a test_decrypt.txt file that is now readeble
 
+Have fun 
+
 
