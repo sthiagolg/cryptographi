@@ -1,8 +1,8 @@
-# cryptographie
+# Cryptographie
 
-usage: python3 cryptographie.py [command] [file] [key]
+Usage: python3 cryptographie.py [command] [file] [key]
 
-example: python3 cryptographie.py crypt test.txt thiago
+Example: python3 cryptographie.py crypt test.txt thiago
 
 
 -> it will create a test.crypt file that is encrypted with the key "thiago"
